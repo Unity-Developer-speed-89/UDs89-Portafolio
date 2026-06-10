@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 // Vacío si el repo es username.github.io; si no, el nombre del repo:
-const basePath = ''
+const basePath = '/UDs89-Portafolio'
 
 const nextConfig = {
   output: 'export',
